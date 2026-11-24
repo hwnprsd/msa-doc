@@ -18,14 +18,14 @@ Two skills ship together:
 In Claude Code:
 
 ```
-/plugin marketplace add OWNER/msa-doc
+/plugin marketplace add hwnprsd/msa-doc
 /plugin install msa-doc@msa-doc
 ```
 
 ### Option B: plain skills folder
 
 ```bash
-git clone https://github.com/OWNER/msa-doc.git
+git clone https://github.com/hwnprsd/msa-doc.git
 mkdir -p ~/.claude/skills
 ln -s "$PWD/msa-doc/plugins/msa-doc/skills/msa-doc"   ~/.claude/skills/msa-doc
 ln -s "$PWD/msa-doc/plugins/msa-doc/skills/print-doc" ~/.claude/skills/print-doc
