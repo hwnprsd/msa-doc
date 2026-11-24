@@ -1,0 +1,48 @@
+skinparam shadowing false
+skinparam defaultFontName "Liberation Serif"
+skinparam defaultFontSize 15
+skinparam defaultFontColor black
+skinparam backgroundColor white
+skinparam roundCorner 0
+skinparam ArrowColor black
+skinparam ArrowThickness 1.2
+skinparam rectangle {
+  BackgroundColor white
+  BorderColor black
+  BorderThickness 1.2
+}
+skinparam activity {
+  BackgroundColor white
+  BorderColor black
+  BorderThickness 1.2
+  StartColor black
+  EndColor black
+  DiamondBackgroundColor white
+  DiamondBorderColor black
+}
+skinparam participant {
+  BackgroundColor white
+  BorderColor black
+  BorderThickness 1.2
+}
+skinparam actor {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam sequence {
+  LifeLineBorderColor black
+  LifeLineBorderThickness 1
+  LifeLineBackgroundColor white
+}
+skinparam sequenceMessageAlign center
+skinparam dpi 200
+skinparam note {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam state {
+  BackgroundColor white
+  BorderColor black
+  StartColor black
+  EndColor black
+}

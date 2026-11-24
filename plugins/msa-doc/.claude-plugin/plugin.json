@@ -1,0 +1,5 @@
+{
+  "name": "msa-doc",
+  "version": "1.0.0",
+  "description": "Write documents in the house style (Times New Roman, MSA-numbered clauses), build them to .docx and publish to Google Docs. Includes /msa-doc and /print-doc."
+}

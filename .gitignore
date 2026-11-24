@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+credentials.json
+token.json
+.gdoc_id_*
+*.docx
+!plugins/msa-doc/skills/msa-doc/scripts/reference-legal.docx
+*.pdf

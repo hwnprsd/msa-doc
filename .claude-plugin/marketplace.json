@@ -1,0 +1,11 @@
+{
+  "name": "msa-doc",
+  "owner": { "name": "msa-doc maintainers" },
+  "plugins": [
+    {
+      "name": "msa-doc",
+      "source": "./plugins/msa-doc",
+      "description": "House-style docs: Times New Roman, MSA-numbered clauses, built to .docx and published to Google Docs (plus /print-doc)."
+    }
+  ]
+}
